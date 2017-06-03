@@ -1,11 +1,11 @@
-# go-metric
+# gdauth
 
-[![Build Status](https://travis-ci.org/mozillazg/gdauth.svg?branch=master)](https://travis-ci.org/mozillazg/gdauth)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mozillazg/go-metric)](https://goreportcard.com/report/github.com/mozillazg/gdauth)
+[![Build Status](https://circleci.com/bb/mozillazg/gdauth.svg?style=svg)](https://circleci.com/bb/mozillazg/gdauth)
+[![Go Report Card](https://goreportcard.com/badge/bitbucket.org/mozillazg/gdauth)](https://goreportcard.com/report/bitbucket.org/mozillazg/gdauth)
 
 ## install
 
-`go get -u github.com/mozillazg/gdauth`
+`go get -u bitbucket.org/mozillazg/gdauth`
 
 
 ## usage
